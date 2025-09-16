@@ -1,8 +1,9 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "412855149.github.io",
+    "TKUISA_Inventory_Management_System_Website"
   ]
 }
